@@ -35,7 +35,6 @@ This will start the application on http://localhost:5173
 - **WebSocket (Binance API)**: For streaming live data updates for cryptocurrency prices and market details.
 
 - **Tailwind CSS**: For utility-first CSS styling.
-
 - **Font Awesome**: For icons like the star to mark favorite cryptocurrencies.
 
 ## Architecture
@@ -66,10 +65,10 @@ Watch Demo
 
 ## Future Improvements
 
--Improve error handling and data validation.
+- Improve error handling and data validation.
 
--Implement additional visualizations for price trends.
+- Implement additional visualizations for price trends.
 
--Add more customizable features like alert notifications for price changes.
+- Add more customizable features like alert notifications for price changes.
 
 Feel free to contribute or give feedback!
