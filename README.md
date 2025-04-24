@@ -50,8 +50,7 @@ The app is organized as follows:
 
 ## Demo
 Check out the live demo of the Real-Time Crypto Price Tracker:
-
-Watch Demo
+https://drive.google.com/file/d/1CCSJ1DWTDNUXOeXVkJBmN_gFZf3xxHC3/view?usp=drive_link
 
 ## Additional Features
 - **Sorting and Filtering:** Sort cryptocurrencies by price, market cap, rank, or by top gainers/losers.
